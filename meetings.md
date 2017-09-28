@@ -9,6 +9,7 @@ Meetings notes for each meeting (in Romanian language)
 
 ## Septembrie 2017
 
+* [28 septembrie - online](./meetings/2017-09/meeting-2017-09-28.md)
 * [24 Septembrie - la liceu](./meetings/2017-09/meeting-2017-09-24.md)
 * [21 septembrie - online](./meetings/2017-09/meeting-2017-09-21.md)
 * [14 Septembrie - online](./meetings/2017-09/meeting-2017-09-14.md)
