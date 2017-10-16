@@ -5,8 +5,9 @@ Meetings notes for each meeting (in Romanian language)
 
 ## Octombrie 2017
 
-* `Last meeting on top` 
-* [5 octobrie - online](./meetings/2017-10/2017-10-05.md) _Cine a gresit aici? TEMA pana pe 10 Oct 2017_
+* `Last meeting on top`
+* [12 octombrie - online](./meetings/2017-10/2017-10-12.md) 
+* [5 octombrie - online](./meetings/2017-10/2017-10-05.md)
 
 ## Septembrie 2017
 
