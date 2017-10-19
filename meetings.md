@@ -6,7 +6,8 @@ Meetings notes for each meeting (in Romanian language)
 ## Octombrie 2017
 
 * `Last meeting on top`
-* [12 octombrie - online](./meetings/2017-10/2017-10-12.md) 
+* [15 octombrie - la liceu](./meetings/2017-10/2017-10-15.md) 
+* [12 octombrie - online](./meetings/2017-10/2017-10-12.md)
 * [5 octombrie - online](./meetings/2017-10/2017-10-05.md)
 
 ## Septembrie 2017
